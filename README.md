@@ -1,2 +1,4 @@
 # misc
-Random stuff
+Random stuff stored here
+## Use?
+This is completely useless.
