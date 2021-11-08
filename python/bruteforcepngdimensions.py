@@ -1,7 +1,7 @@
 import binascii
 import struct
 
-crc32key = 0x0DB3F6C0 # Change this value
+crc32key = 0x00000600 # Change this value
 for i in range(0, 65535):
   height = struct.pack('>i', i)
   for x in range(0, 65535):
